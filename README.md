@@ -19,7 +19,7 @@ The bot:
 ## Setup
 
 ```bash
-cd /Users/jadenruan/Documents/Projects/word_hunt_cheat
+cd ~/.../word_hunt_cheat
 
 # 1. Install Tesseract
 brew install tesseract
